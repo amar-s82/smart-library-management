@@ -1,0 +1,25 @@
+# Build output
+bin/
+
+# Database files
+libraai.db
+
+# Node modules
+node_modules/
+
+# Environment files (contain secrets)
+.env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# Temp files
+sources.txt
+sources_relative.txt
+*.class
